@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "firstName": "Pingola",
+      "age": 99,
+      "companyId": "2",
+      "id": "23"
+    },
+    {
+      "id": "47",
+      "firstName": "Samantha",
+      "age": 21,
+      "companyId": "2"
+    },
+    {
+      "id": "44",
+      "firstName": "Fred",
+      "age": 21,
+      "companyId": "2"
+    },
+    {
+      "firstName": "stevo",
+      "age": 55,
+      "id": "55S"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    },
+    {
+      "id": "3",
+      "name": "Meta",
+      "description": "facebook"
+    }
+  ]
+}
